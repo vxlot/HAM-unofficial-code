@@ -1,4 +1,4 @@
-# HAM
+# HAM unofficial code
 Hybrid attention module in deep convolutional neural networks for image classification.
 
 ![](https://raw.githubusercontent.com/vxlot/img_host/main/PicGo/ham.webp)
