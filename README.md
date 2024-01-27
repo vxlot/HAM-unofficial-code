@@ -1,7 +1,7 @@
 # HAM
 Hybrid attention module in deep convolutional neural networks for image classification.
 
-'''python
+```python
 !git clone https://github.com/vxlot/HAM.git
 %cd HAM
 
@@ -18,5 +18,4 @@ print('F',F.shape)
 ham_attn = HAM(channels=channels, channel_groups=channels//2)
 F = ham_attn(F)
 F.shape
-
-'''
+```
